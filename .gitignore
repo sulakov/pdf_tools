@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.DS_Store
+env/
+.venv/
+.idea/
+.vscode/
+compressed_pdfs/
+merged_pdfs/

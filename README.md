@@ -22,6 +22,8 @@ When scanning long multi-page documents with an iPhone, two problems arise:
 | iPhone Optimized   | 72  | 25%  | Best for scanned pages |
 | Ultra Small        | 72  | 20%  | For minimal file size  |
 
+Updated - I encountered the fact that in some documents there is a need to save color photos, so 3 color profiles were added to the presets.
+
 ### Install dependencies
 ```bash
 pip install PyMuPDF pillow PyQt5
